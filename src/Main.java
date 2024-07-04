@@ -14,12 +14,12 @@ public class Main {
         System.out.println("Значение переменной three c типом int равно " + three);
         System.out.println("Значение переменной four c типом long равно " + four);
         System.out.println("Значение переменной five c типом float равно " + five);
-        System.out.println("Значение переменной six c типом doable равно " + six);
+        System.out.println("Значение переменной six c типом double равно " + six);
 //Задача 2
         System.out.println("Задача 2");
         float a = 27.12F;
         long b = 987678965549L;
-        float c = (float) 2.786;
+        double c = 2.786;
         short d = 569;
         short e = -159;
         short f = 27897;
